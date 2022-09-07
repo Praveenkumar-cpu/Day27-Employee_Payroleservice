@@ -28,6 +28,7 @@ public class EmployeePayrollService {
         double salary = Double.parseDouble(consoleInputReader.nextLine());
         employeePayrollList.add(new EmployeePayrollData(id, name, salary));
     }
+    
 
     private void writeEmployeeData() {
         System.out.println("Writing Employee Payroll Data to Console\n" + employeePayrollList);
