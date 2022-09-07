@@ -12,6 +12,8 @@ public class FileOpeartion {
                 deleteFiles(file);
             }
         }
+
+        
         return contentsToDelete.delete();
     }
 }
