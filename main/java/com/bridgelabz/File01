@@ -1,0 +1,4 @@
+EmployPayrollData{Id=1, Name='praveen', Salary=10000.0}
+EmployPayrollData{Id=2, Name='Ganu', Salary=20000.0}
+EmployPayrollData{Id=3, Name='vijay', Salary=30000.0}
+EmployPayrollData{Id=4, Name='mam', Salary=30000.0}
