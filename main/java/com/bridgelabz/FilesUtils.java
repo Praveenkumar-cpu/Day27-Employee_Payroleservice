@@ -8,6 +8,7 @@ public class FilesUtils {
      * @param contentToDelete in file
      * @return delete content
      */
+
     public static boolean deleteFiles(File contentToDelete) {
         File[] allContents = contentToDelete.listFiles();
         if (allContents != null) {

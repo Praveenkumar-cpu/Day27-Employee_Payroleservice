@@ -2,6 +2,7 @@ package com.bridgelabz;
 
 public class EmployPayrollData {
 
+
     private int id;
     private String name;
     private double salary;

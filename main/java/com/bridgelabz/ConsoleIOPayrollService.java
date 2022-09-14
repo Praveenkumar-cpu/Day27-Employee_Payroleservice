@@ -15,6 +15,7 @@ public class ConsoleIOPayrollService implements PayrollService {
         return false;
     }
 
+
     @Override
     public void readPayrollData() {
         Scanner sc1 = new Scanner(System.in);
